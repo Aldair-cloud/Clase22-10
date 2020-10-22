@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sanchez"
+    }
+  },
+  "defaultProject": "sanchez",
+  "cli": {
+    "analytics": "6f57ccb7-88a5-46d3-a7bd-fa13badab3ba"
+  }
 }
